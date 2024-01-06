@@ -8,7 +8,7 @@
         "SESSION_ID": {
             "description": "Type the SESSION_ID you got from scaning QR [ https://gpt-qr-code.onrender.com ]",
             "required": true,
-            "value": ""
+            "value": "elisa_md@;;;FQckHb5B#E3Tt5OjGSQb5RuJIhoNY4r2hu8pGWmAIs3UZ11zMI5I"
         }
     },
     "buildpacks": [
